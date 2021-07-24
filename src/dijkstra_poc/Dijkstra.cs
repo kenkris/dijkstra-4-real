@@ -1,6 +1,6 @@
 using System;
 
-namespace dijkstra_4_real
+namespace dijkstra_poc
 {
     class Dijkstra : IDijkstra
     {

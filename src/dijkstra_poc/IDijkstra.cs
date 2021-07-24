@@ -1,4 +1,4 @@
-namespace dijkstra_4_real
+namespace dijkstra_poc
 {
     public interface IDijkstra
     {
