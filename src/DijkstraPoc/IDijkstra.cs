@@ -1,4 +1,4 @@
-namespace dijkstra_poc
+namespace DijkstraPoc
 {
     public interface IDijkstra
     {

@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/dijkstra_poc/bin/Debug/netcoreapp3.1/dijkstra_poc.dll",
+            "program": "${workspaceFolder}/src/DijkstraPoc/bin/Debug/netcoreapp3.1/DijkstraPoc.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/dijkstra_poc",
+            "cwd": "${workspaceFolder}/src/DijkstraPoc",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
