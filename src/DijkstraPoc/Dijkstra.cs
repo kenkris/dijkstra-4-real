@@ -38,8 +38,6 @@ namespace DijkstraPoc
             }
         }
 
-
-
         // Finding the minimum distance
         private static int _findMinDistance(int[] distance, bool[] visitedVertex)
         {
